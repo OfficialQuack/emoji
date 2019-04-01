@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#302C3B" d="M60.015,7c-0.565,0-11.735,3.486-28.013,3.486C15.721,10.486,4.551,7,3.985,7C2.692,7,2,7.887,2,8.743
+	c0,12.675,10.519,26.146,30.002,26.146C51.484,34.889,62,21.418,62,8.743C62,7.887,61.311,7,60.015,7z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32.0015" y1="13.1465" x2="32.0015" y2="57.0005">
+	<stop  offset="0" style="stop-color:#B32E24"/>
+	<stop  offset="0.0103" style="stop-color:#B63026"/>
+	<stop  offset="0.1122" style="stop-color:#D14136"/>
+	<stop  offset="0.2241" style="stop-color:#E54F42"/>
+	<stop  offset="0.3496" style="stop-color:#F4594B"/>
+	<stop  offset="0.4998" style="stop-color:#FC5E50"/>
+	<stop  offset="0.7394" style="stop-color:#FF6052"/>
+	<a:midPointStop  offset="0" style="stop-color:#B32E24"/>
+	<a:midPointStop  offset="0.2066" style="stop-color:#B32E24"/>
+	<a:midPointStop  offset="0.7394" style="stop-color:#FF6052"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M12.114,20.384c0,1.907,0,5.101,0,8.526c0,18.7,8.907,28.08,19.888,28.09
+	c10.98-0.01,19.887-9.39,19.887-28.09c0-3.426,0-6.619,0-8.526c0-11.172-19.887-6.079-19.887-6.079S12.114,9.212,12.114,20.384z"/>
+<path fill="#B81B1B" d="M29.174,13.734l2.828,27.869l2.819-27.869c-1.702,0.285-2.819,0.57-2.819,0.57S30.875,14.02,29.174,13.734z"
+	/>
+</svg>

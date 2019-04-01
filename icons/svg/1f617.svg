@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-70.8735" y1="-173.1665" x2="-70.8735" y2="-113.1655" gradientTransform="matrix(0.9848 -0.1736 -0.1736 -0.9848 76.9429 -121.2937)">
+	<stop  offset="0" style="stop-color:#FFA027"/>
+	<stop  offset="0.2723" style="stop-color:#FFC151"/>
+	<stop  offset="0.7633" style="stop-color:#FFC93F"/>
+	<stop  offset="1" style="stop-color:#FFE261"/>
+	<a:midPointStop  offset="0" style="stop-color:#FFA027"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#FFA027"/>
+	<a:midPointStop  offset="0.2723" style="stop-color:#FFC151"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#FFC151"/>
+	<a:midPointStop  offset="0.7633" style="stop-color:#FFC93F"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#FFC93F"/>
+	<a:midPointStop  offset="1" style="stop-color:#FFE261"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="32" cy="32" r="29.995"/>
+<path fill="#302C3B" d="M46.266,48.604c1.272-1.889-2.315-2.602-2.82-5.465c-0.504-2.857,2.625-4.758,0.781-6.095
+	c-2.205-1.604-6.013,0.575-8.994-1.593c0.375,2.118,2.56,4.115,5.883,3.531c0,0-2.098,1.309-1.479,4.828
+	c0.622,3.521,3.04,4.033,3.04,4.033c-3.323,0.586-4.69,3.211-4.317,5.33C40.418,50.122,44.74,50.866,46.266,48.604z"/>
+<ellipse transform="matrix(-0.9848 0.1738 -0.1738 -0.9848 49.3226 48.73)" fill="#302C3B" cx="22.528" cy="26.524" rx="4.499" ry="5.999"/>
+<ellipse transform="matrix(-0.9848 0.1737 -0.1737 -0.9848 87.8079 38.4192)" fill="#302C3B" cx="42.223" cy="23.052" rx="4.5" ry="5.999"/>
+</svg>
